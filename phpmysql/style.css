@@ -1,0 +1,58 @@
+#signup-form-design {
+    margin-top: 130px;
+    margin-left: 500px;
+    height:200px;
+
+   
+ 
+   
+}
+.td-design{
+    border:1px solid black;
+    padding:10px 20px;
+    font-size:25px  ;
+    border-collapse: collapse;
+}
+input {
+    font-size:20px; 
+}
+.input-btn-design{
+    
+    padding:15px 30px;
+    background-color:cyan;
+    border:none;
+}
+.input-btn-design-login{
+    
+    padding:15px 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-color: cyan;
+    border:none;
+}
+#eror-output {
+    padding:20px;
+    font-size: 30px;
+    height:50px;
+    background-color:cyan;
+    text-align: center;
+}
+.input-btn-design:hover{
+    
+    padding:15px 30px;
+    background-color:black;
+    border:none;
+    color: cyan;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.input-btn-design-login:hover{
+    
+    padding:15px 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-color:black;
+    color:cyan;
+    border:none;
+    border-radius: 5px;
+}

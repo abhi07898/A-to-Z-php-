@@ -1,0 +1,27 @@
+*{
+    margin-left:10px;
+    padding:0;
+}
+table{
+    width:100%; 
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+                
+}
+th{
+    background-color:black;
+    color:white;
+}
+th , td{
+    text-align:center;
+    padding:10px;
+}
+h3{
+    border-bottom: 2px solid black;
+    border-radius: 20px;
+    text-align:center;
+}
+            
+    
